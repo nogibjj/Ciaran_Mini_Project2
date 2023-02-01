@@ -1,5 +1,5 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Palindrome or Not
+Check whether input word is a palindrome.
 
 ## References
 
